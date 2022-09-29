@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Analyzer", "Number Analyzer\Number Analyzer.csproj", "{ED911907-485B-4260-9F16-936280A9A5CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED911907-485B-4260-9F16-936280A9A5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED911907-485B-4260-9F16-936280A9A5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED911907-485B-4260-9F16-936280A9A5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED911907-485B-4260-9F16-936280A9A5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B5F1F5A-39B4-4C4D-AE72-6EE58B3804AA}
+	EndGlobalSection
+EndGlobal
